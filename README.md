@@ -1,0 +1,3 @@
+# php_palautukset
+Tietokantaohjelmoinnin loppuharjoitusten palautus
+
